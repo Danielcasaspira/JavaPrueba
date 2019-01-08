@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Usuarios Prueba Java</title>
+        <link rel="stylesheet" type="text/css" href="estilos.css">
+    </head>
+    <body>
+        <form name="form1" action="/recursoEnServidor" method="post">
+
+            <input type="hidden" name="oculto" value="valorOculto">
+
+            <table width="200" id="one-column-emphasis">
+                <caption>
+                    Registro de Datos
+                </caption>
+                <tr>
+                    <td class="oce-first">
+                        Usuario:
+                    </td>
+                    <td>
+                        <input class="default" type="text" name="usuario" value=""/>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="oce-first">
+                        Password:
+                    </td>
+                    <td>
+                        <input class="default" type="password" name="password">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="oce-first">
+                        Correo:
+                    </td>
+                    <td>
+                        <input class="default" type="text" name="correo">
+                    </td>
+                </tr>
+                <tr>
+                <tr>
+                    <td class="oce-first">
+                        Telefono:
+                    </td>
+                    <td>
+                        <input class="default" type="text" name="number">
+                    </td>
+                </tr>
+                    <td class="oce-first">
+                        Ocupaci&oacute;n
+                    </td>
+                    <td>
+                        <select name="ocupacion" class="default">
+                            <option value="1">Profesor</option>
+                            <option value="2">Ingeniero</option>
+                            <option value="3">Pensionado</option>
+                            <option value="4" selected>Otro</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+            
+                    <td class="oce-first">
+                        Comentarios
+                    </td>
+                    <td>
+                        <textarea name="comentarios" cols="30" rows="2" class="default">
+                           Escribir un texto
+                        </textarea>
+                    </td>
+                </tr>
+                <tr style="text-align:center;">
+                    <td>
+                        <input type="reset" value="Limpiar" class="default">
+                    </td>
+                    <td>
+                        <input type="submit" value="Enviar" class="default">
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>
