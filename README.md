@@ -15,7 +15,7 @@ Se presenta los diagramas relacionados a la arquitectura de una tienda de produc
 
 ## Diagramas de diseño
 
-<p align="center">
+<div align="center">
   <h5>Aplicacion</h5>
   <img src="/images/Aplicacion.png" width="750" alt="Aplicacion">
   <h5>Contribucion de objetivos</h5>
@@ -23,7 +23,7 @@ Se presenta los diagramas relacionados a la arquitectura de una tienda de produc
   <h5>Cooperacion de Aplicacion</h5>
   <img src="/images/Cooperacion_de_Aplicacion.png" width="750" alt="Cooperacion de Aplicacion">
   <h5>Cooperacion de Proceso de Negocio</h5>
-  <img src="/images/CooperacionProcesoNegocio.png" width="650" alt="Cooperacion de Proceso de Negocio">
+  <img src="/images/CooperacionProcesoNegocio.png" width="550" alt="Cooperacion de Proceso de Negocio">
   <h5>Estructura de aplicacion</h5>
   <img src="/images/Estructura_de_aplicacion.png" width="550" alt="Estructura de aplicacion">
   <h5>Estructurade la Informacion</h5>
@@ -52,7 +52,7 @@ Se presenta los diagramas relacionados a la arquitectura de una tienda de produc
   <img src="/images/UsoAplicacion.png" width="550" alt="Uso de la Aplicacion">
   <h5>Uso de Infraestructura</h5>
   <img src="/images/UsoInfraestructura.png" width="550" alt="Uso de Infraestructura">
-</p>
+</div>
 
 ```
 
