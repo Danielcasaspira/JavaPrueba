@@ -21,9 +21,9 @@ Se presenta los diagramas relacionados a la arquitectura de una tienda de produc
   <h5>Contribucion de objetivos</h5>
   <img src="/images/Contribucion_de_objetivos.png" width="550" alt="Contribucion de objetivos">
   <h5>Cooperacion de Aplicacion</h5>
-  <img src="/images/Cooperacion_de_Aplicacion.png" width="550" alt="Cooperacion de Aplicacion">
+  <img src="/images/Cooperacion_de_Aplicacion.png" width="750" alt="Cooperacion de Aplicacion">
   <h5>Cooperacion de Proceso de Negocio</h5>
-  <img src="/images/CooperacionProcesoNegocio.png" width="550" alt="Cooperacion de Proceso de Negocio">
+  <img src="/images/CooperacionProcesoNegocio.png" width="650" alt="Cooperacion de Proceso de Negocio">
   <h5>Estructura de aplicacion</h5>
   <img src="/images/Estructura_de_aplicacion.png" width="550" alt="Estructura de aplicacion">
   <h5>Estructurade la Informacion</h5>
@@ -33,10 +33,25 @@ Se presenta los diagramas relacionados a la arquitectura de una tienda de produc
   <h5>Infraestructura</h5>
   <img src="/images/Infraestructura.png" width="550" alt="Infraestructura">
   <h5>Motivacion</h5>
-  <img src="/images/Motivacion.png" width="550" alt="Motivacion">
+  <img src="/images/Motivacion.png" width="650" alt="Motivacion">
   <h5>Organizacion de la implementacion</h5>
   <img src="/images/Organizacion_implementacion.png" width="550" alt="Organizacion de la implementacion">
-  
+  <h5>Procesos de Negocios</h5>
+  <img src="/images/ProcesosNegocios.png" width="550" alt="Procesos de Negocios">
+  <h5>Producto</h5>
+  <img src="/images/Producto.png" width="550" alt="Producto">
+  <h5>Punto de Vista</h5>
+  <img src="/images/PuntoVista.png" width="550" alt="Punto de Vista">
+  <h5>Realizacion de Requerimientos</h5>
+  <img src="/images/RealizacionRequerimientos.png" width="550" alt="Realizacion de Requerimientos">
+  <h5>Realizacion del Servicio</h5>
+  <img src="/images/RealizacionServicio.png" width="550" alt="Realizacion del Servicio">
+  <h5>Resumen de Capas</h5>
+  <img src="/images/ResumenCapas.png" width="550" alt="Resumen de Capas">
+  <h5>Uso de la Aplicacion</h5>
+  <img src="/images/UsoAplicacion.png" width="550" alt="Uso de la Aplicacion">
+  <h5>Uso de Infraestructura</h5>
+  <img src="/images/UsoInfraestructura.png" width="550" alt="Uso de Infraestructura">
 </p>
 
 ```
