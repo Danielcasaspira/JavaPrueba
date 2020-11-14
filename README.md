@@ -16,10 +16,27 @@ Se presenta los diagramas relacionados a la arquitectura de una tienda de produc
 ## Diagramas de diseño
 
 <p align="center">
-	<h5>Aplicacion</h5>
+  <h5>Aplicacion</h5>
   <img src="/images/Aplicacion.png" width="750" alt="Aplicacion">
-  <h5>Aplicacion2</h5>
+  <h5>Contribucion de objetivos</h5>
   <img src="/images/Contribucion_de_objetivos.png" width="550" alt="Contribucion de objetivos">
+  <h5>Cooperacion de Aplicacion</h5>
+  <img src="/images/Cooperacion_de_Aplicacion.png" width="550" alt="Cooperacion de Aplicacion">
+  <h5>Cooperacion de Proceso de Negocio</h5>
+  <img src="/images/CooperacionProcesoNegocio.png" width="550" alt="Cooperacion de Proceso de Negocio">
+  <h5>Estructura de aplicacion</h5>
+  <img src="/images/Estructura_de_aplicacion.png" width="550" alt="Estructura de aplicacion">
+  <h5>Estructurade la Informacion</h5>
+  <img src="/images/EstructuraInformacion.png" width="550" alt="Estructurade la Informacion">
+  <h5>Funciones del negocio</h5>
+  <img src="/images/Funciones_del_negocio.png" width="550" alt="Funciones del negocio">
+  <h5>Infraestructura</h5>
+  <img src="/images/Infraestructura.png" width="550" alt="Infraestructura">
+  <h5>Motivacion</h5>
+  <img src="/images/Motivacion.png" width="550" alt="Motivacion">
+  <h5>Organizacion de la implementacion</h5>
+  <img src="/images/Organizacion_implementacion.png" width="550" alt="Organizacion de la implementacion">
+  
 </p>
 
 ```
