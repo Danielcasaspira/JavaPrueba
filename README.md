@@ -16,7 +16,8 @@ Se presenta los diagramas relacionados a la arquitectura de una tienda de produc
 ## Diagramas de diseño
 
 <p align="center">
-  <img src="/images/Aplicacion.png" width="550" title="Aplicacion">
+  <img src="/images/Aplicacion.png" width="750" title="Aplicacion">
+  <figcaption>Aplicacion</figcaption>
   <img src="/images/Contribucion_de_objetivos.png" width="550" alt="Contribucion de objetivos">
 </p>
 
