@@ -51,12 +51,12 @@ Se presenta los diagramas relacionados a la arquitectura de una tienda de produc
   <h5>Uso de la Aplicacion</h5>
   <img src="/images/UsoAplicacion.png" width="550" alt="Uso de la Aplicacion">
   <h5>Uso de Infraestructura</h5>
-  <img src="/images/UsoInfraestructura.png" width="650" alt="Uso de Infraestructura">
+  <img src="/images/UsoInfraestructura.png" width="700" alt="Uso de Infraestructura">
 </div>
 
 ```
 
 ### Fuentes
 
-- [Patrones de diseño](https://es.wikipedia.org/wiki/Patr%C3%B3n_de_dise%C3%B1o)
-- [Agario.io](https://es.wikipedia.org/wiki/Agar.io)
+- [MicroServicios](https://es.wikipedia.org/wiki/Patr%C3%B3n_de_dise%C3%B1o)
+- [Open Source ArchiMate Modelling](https://es.wikipedia.org/wiki/Agar.io)
