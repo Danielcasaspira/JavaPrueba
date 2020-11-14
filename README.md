@@ -11,15 +11,15 @@ Integrantes:
 - Henry Daniel Casas Pira    202002099023 		
 
 ## Aplicacion en ArchiMate
-Se presenta los diagramas relacionados a la arquitectura de una tienda de productos con sus correspondientes areas, servicios, productos,funciones en el negocio y toda la estructura que se va tener en cuenta para hacer su uso de la aplicacion en cualquier infraestructura de software. 
+Se presenta los diagramas relacionados a la arquitectura de una tienda de productos con sus correspondientes areas, servicios, productos, funciones en el negocio y toda la estructura que se va tener en cuenta para hacer su uso de la aplicacion en cualquier infraestructura de software. 
 
 ## Diagramas de diseño
 Un patrón de diseño resulta ser una solución a un problema de diseño. Para que una solución sea considerada un patrón debe poseer ciertas características. Una de ellas es que debe haber comprobado su efectividad resolviendo problemas similares en ocasiones anteriores. Otra es que debe ser reutilizable, lo que significa que es aplicable a diferentes problemas de diseño en distintas circunstancias.
 
 
-![alt text](/images/Aplicacion.png "Aplicacion")
+![alt text](/images/Aplicacion.png?raw=true "Aplicacion")
 
-![alt text](/images/Contribucion de objetivos.png "Contribucion de objetivos")
+![alt text](/images/Contribucion de objetivos.png?raw=true "Contribucion de objetivos")
 
 
 ```
