@@ -22,7 +22,7 @@ Un patrón de diseño resulta ser una solución a un problema de diseño. Para q
 ### Facade:
 Se realiza la fachada del juego como una interfaz principal donde de manera directa se genera el llamado al metodo principal del juego que es el play, alli se encuentra la declaracion de variables, logica e inicializacion del juego.
 
-![alt text](master/images/Aplicacion.png)
+![alt text](images/Aplicacion.png)
 
 ```python
  from fachada import FachadaJuego
@@ -32,7 +32,7 @@ Se realiza la fachada del juego como una interfaz principal donde de manera dire
 ### Prototype:
 Este especifica los tipos de objetos a crear en el juego, de manera que se presenta una instancia principal con dos prototipos principales representando uno de estos, el jugador principal y el segundo los jugadores opontes que se estaran moviendo de forma aleatoria por la pantalla del juego.
 
-![alt text](master/images/Contribucion de objetivos.png)
+![alt text](/images/Contribucion de objetivos.png)
 
 ```python
     class circulo_food():
