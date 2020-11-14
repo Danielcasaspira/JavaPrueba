@@ -58,7 +58,7 @@ Se presenta los diagramas relacionados a la arquitectura de una tienda de produc
 Se presentan dos microservicios realizados en python montados en una imagen docker con su debido versionamiento, simulando el listado de clientes y productos correspondientemente.
 
 ```python
-	@app.route("/clientes")
+@app.route("/clientes")
 def get_clientes():
     ret = []
     res = Clientes.query.all()
@@ -100,6 +100,6 @@ def get_productos():
 
 ### Fuentes
 
-- [Docker](https://es.wikipedia.org/wiki/Patr%C3%B3n_de_dise%C3%B1o)
-- [MicroServicios](https://es.wikipedia.org/wiki/Patr%C3%B3n_de_dise%C3%B1o)
-- [Open Source ArchiMate Modelling](https://es.wikipedia.org/wiki/Agar.io)
+- [Docker](https://www.docker.com/)
+- [MicroServicios](https://medium.com/@sonusharma.mnnit/building-a-microservice-in-python-ff009da83dac)
+- [Open Source ArchiMate Modelling](https://www.archimatetool.com/)
